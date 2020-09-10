@@ -10,7 +10,6 @@ includeBuild("subprojects/gradle-guides-plugin")
 
 val guides = listOf(
         "building-java-web-applications",
-        "building-spring-boot-2-projects-with-gradle",
         "consuming-jvm-libraries",
         "creating-build-scans",
         "creating-new-gradle-builds",
